@@ -1,2 +1,3 @@
-# 2022-1-ComputationalThinking_for_Programming
+# 2022-1-Lecture_Note
+
 Lecture Note
